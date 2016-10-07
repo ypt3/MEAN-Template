@@ -1,0 +1,25 @@
+{
+  "name": "mean_template",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Alan Tsai"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "jquery": "^3.1.1",
+    "angular-auto-validate": "^1.19.6",
+    "ui-navbar": "^0.4.5",
+    "bootstrap": "^3.3.7"
+  }
+}
